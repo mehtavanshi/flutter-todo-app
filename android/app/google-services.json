@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "192537713232",
+    "project_id": "signin-a8057",
+    "storage_bucket": "signin-a8057.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192537713232:android:69de45544394bd0c230f55",
+        "android_client_info": {
+          "package_name": "com.example.new_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARpVewP0LYWwYSshdpE-97EIqY4wTAfnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
